@@ -12,3 +12,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Site básico com Bootstrap só para testar
+
+[clique aqui para acessar](https://kevinreishartwig.github.io/FilmesFavoritos/)
