@@ -13,4 +13,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Site básico com Bootstrap só para testar
 
-[clique aqui para acessar]([https://kevinreishartwig.github.io/FilmesFavoritos/](https://kevinreishartwig.github.io/Bootstrap-template/)https://kevinreishartwig.github.io/Bootstrap-template/)
+[clique aqui para acessar]([https://kevinreishartwig.github.io/FilmesFavoritos/](https://kevinreishartwig.github.io/Bootstrap-template/)https://kevinreishartwig.github.io/Bootstrap-template/])
