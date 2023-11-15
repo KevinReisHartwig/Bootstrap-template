@@ -1,2 +1,14 @@
-# Bootstrap-template
-testando template pronto do bootstrap para fazer um site navegável básico 
+<h1 align="center"> Site usando Bootstrap </h1>
+<br>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- CSS 
+- HTML
+- Bootstrap
+
+## 💻 Projeto
+
+Site básico com Bootstrap só para testar
